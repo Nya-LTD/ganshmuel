@@ -1,3 +1,8 @@
 devops
 asdsadas
+<<<<<<< HEAD
 asdsadas
+=======
+
+asdasdsadasasd
+>>>>>>> 060efc9656ef2bb033a62ec7e3c266810416615b
